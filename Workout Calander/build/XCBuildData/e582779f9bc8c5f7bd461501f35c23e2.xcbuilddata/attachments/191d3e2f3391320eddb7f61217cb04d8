@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Calender AppUITests-master.dia",
+    "emit-module-dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Calender AppUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Calender AppUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Calender AppUITests-master.swiftdeps"
+  },
+  "/Users/natalianikashova/XCode/Workout Calander/Workout CalanderUITests/Workout_CalanderUITests.swift" : {
+    "const-values" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITests.swiftconstvalues",
+    "dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITests.d",
+    "diagnostics" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITests.dia",
+    "index-unit-output-path" : "/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITests.o",
+    "llvm-bc" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITests.bc",
+    "object" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITests.o",
+    "swift-dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITests.swiftdeps",
+    "swiftmodule" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITests~partial.swiftmodule"
+  },
+  "/Users/natalianikashova/XCode/Workout Calander/Workout CalanderUITests/Workout_CalanderUITestsLaunchTests.swift" : {
+    "const-values" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITestsLaunchTests.d",
+    "diagnostics" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITestsLaunchTests.dia",
+    "index-unit-output-path" : "/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITestsLaunchTests.o",
+    "llvm-bc" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITestsLaunchTests.bc",
+    "object" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender AppUITests.build/Objects-normal/x86_64/Workout_CalanderUITestsLaunchTests~partial.swiftmodule"
+  }
+}

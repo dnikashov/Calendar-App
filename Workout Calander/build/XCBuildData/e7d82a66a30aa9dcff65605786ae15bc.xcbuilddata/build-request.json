@@ -1,0 +1,54 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "aec5142af59f8ddc0dc58bc255b47724321b5f478624b30e648254c1062f0f84"
+    },
+    {
+      "guid" : "aec5142af59f8ddc0dc58bc255b47724333f2b0edae7bac76bfc1cee69578848"
+    },
+    {
+      "guid" : "aec5142af59f8ddc0dc58bc255b47724ba2a241c79dc2d432dce9cf7bfb7bc32"
+    }
+  ],
+  "containerPath" : "/Users/natalianikashova/XCode/Workout Calander/Calender App.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/natalianikashova/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/natalianikashova/Library/Developer/Xcode/DerivedData/Calender_App-erujmyrplgdrsagzrxiziwxqsdrr/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/natalianikashova/Library/Developer/Xcode/DerivedData/Calender_App-erujmyrplgdrsagzrxiziwxqsdrr/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/natalianikashova/Library/Developer/Xcode/DerivedData/Calender_App-erujmyrplgdrsagzrxiziwxqsdrr/CodeCoverage/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

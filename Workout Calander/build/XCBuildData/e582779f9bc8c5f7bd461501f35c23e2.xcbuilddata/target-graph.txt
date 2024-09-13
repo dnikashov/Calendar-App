@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'Calender AppUITests' in project 'Calender App'
+➜ Explicit dependency on target 'Calender App' in project 'Calender App'
+Target 'Calender AppTests' in project 'Calender App'
+➜ Explicit dependency on target 'Calender App' in project 'Calender App'
+Target 'Calender App' in project 'Calender App' (no dependencies)

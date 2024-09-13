@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/Calender App-master.dia",
+    "emit-module-dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/Calender App-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/Calender App-master-emit-module.dia",
+    "swift-dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/Calender App-master.swiftdeps"
+  },
+  "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/natalianikashova/XCode/Workout Calander/Workout Calander/AppDelegate.swift" : {
+    "const-values" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/natalianikashova/XCode/Workout Calander/Workout Calander/Calendar Helper.swift" : {
+    "const-values" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/Calendar Helper.swiftconstvalues",
+    "dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/Calendar Helper.d",
+    "diagnostics" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/Calendar Helper.dia",
+    "index-unit-output-path" : "/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/Calendar Helper.o",
+    "llvm-bc" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/Calendar Helper.bc",
+    "object" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/Calendar Helper.o",
+    "swift-dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/Calendar Helper.swiftdeps",
+    "swiftmodule" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/Calendar Helper~partial.swiftmodule"
+  },
+  "/Users/natalianikashova/XCode/Workout Calander/Workout Calander/CalendarCell.swift" : {
+    "const-values" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/CalendarCell.swiftconstvalues",
+    "dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/CalendarCell.d",
+    "diagnostics" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/CalendarCell.dia",
+    "index-unit-output-path" : "/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/CalendarCell.o",
+    "llvm-bc" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/CalendarCell.bc",
+    "object" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/CalendarCell.o",
+    "swift-dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/CalendarCell.swiftdeps",
+    "swiftmodule" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/CalendarCell~partial.swiftmodule"
+  },
+  "/Users/natalianikashova/XCode/Workout Calander/Workout Calander/SceneDelegate.swift" : {
+    "const-values" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SceneDelegate.d",
+    "diagnostics" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SceneDelegate.o",
+    "llvm-bc" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SceneDelegate.bc",
+    "object" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/natalianikashova/XCode/Workout Calander/Workout Calander/SecondViewController.swift" : {
+    "const-values" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SecondViewController.swiftconstvalues",
+    "dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SecondViewController.d",
+    "diagnostics" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SecondViewController.dia",
+    "index-unit-output-path" : "/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SecondViewController.o",
+    "llvm-bc" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SecondViewController.bc",
+    "object" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SecondViewController.o",
+    "swift-dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SecondViewController.swiftdeps",
+    "swiftmodule" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/SecondViewController~partial.swiftmodule"
+  },
+  "/Users/natalianikashova/XCode/Workout Calander/Workout Calander/ViewController.swift" : {
+    "const-values" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/ViewController.d",
+    "diagnostics" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/ViewController.dia",
+    "index-unit-output-path" : "/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/ViewController.o",
+    "llvm-bc" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/ViewController.bc",
+    "object" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/ViewController.o",
+    "swift-dependencies" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/natalianikashova/XCode/Workout Calander/build/Calender App.build/Debug-iphonesimulator/Calender App.build/Objects-normal/x86_64/ViewController~partial.swiftmodule"
+  }
+}
